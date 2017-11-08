@@ -1,4 +1,13 @@
 Git配置
+
+
+
+Aaa
+
+
+
+
+
 git config --global user.name "robbin"   
 git config --global user.email "fankai@gmail.com"
 git config --global color.ui true
